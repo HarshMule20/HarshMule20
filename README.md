@@ -1,9 +1,14 @@
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=HarshMule20.HarshMule20)
+
+
 <h1 align="center">Hi there 👋, I'm Harsh Mule</h1>
 <!-- <h3 align="center">Student at MITS, Gwalior🌟.</h3> -->
 
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=HarshMule20.HarshMule20)
-[![Github](https://img.shields.io/github/followers/HarshMule20?label=Follow&style=social)](https://github.com/HarshMule20)
+<p align="center">
+  <a href="https://twitter.com/harsh_mule"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/harsh_mule?color=00acee&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/HarshMule20"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/HarshMule20?color=171515&style=for-the-badge&logo=github&label=Follow"/></a>
+<!--   <a href="https://github.com/HarshMule20"><img alt="views" title="Github views" src="https://visitor-badge.glitch.me/badge?page_id=HarshMule20.HarshMule20" /></a> -->
+</p>
 
 <h2> About Me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <img width="47%" height="50%" align="right" src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500">

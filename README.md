@@ -1,8 +1,5 @@
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=HarshMule20.HarshMule20)
-
-
 <h1 align="center">Hi there 👋, I'm Harsh Mule</h1>
-<!-- <h3 align="center">Student at MITS, Gwalior🌟.</h3> -->
+<h3 align="center">Software Developer🌟.</h3>
 
 <p align="center">
   <a href="https://twitter.com/harsh_mule"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/harsh_mule?color=00acee&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
@@ -55,9 +52,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 </p>
 
-[![Harsh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HarshMule20)](https://git.io/praveenscience)
-
-| ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=HarshMule20&show_icons=true) | ![Harsh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshMule20) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshMule20) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=HarshMule20&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true) |
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=HarshMule20&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshMule20) ![Github Stars](https://github-readme-stats.vercel.app/api?username=HarshMule20&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true)
 

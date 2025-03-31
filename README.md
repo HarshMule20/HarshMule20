@@ -12,13 +12,13 @@
 
 <!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
-- 🔭 I’m currently working on React Js.
+- 🔭 I’m currently working on AWS Cloud and Python FastAPI.
 
-- 🌱 I’m currently learning React Js.
+- 🌱 I’m currently learning React Devops with AWS and DSA.
  
-- 👯 I’m looking to collaborate on MERN Projects.
+- 👯 I’m looking to collaborate on MERN, Python Services and AWS Projects.
  
-- 🤔 I’m looking for help with Redux.
+<!--- 🤔 I’m looking for help with Redux.-->
  
 - 💬 Ask me about career opportunities.
  
